@@ -1,0 +1,45 @@
+{
+  "name": "\nزهرا مجتهدین\nشماره دانشجویی : 99102167\n",
+  "firstScore": 50,
+  "missions": [
+    {
+      "level": 1,
+      "name": "LEVEL 1",
+      "time": 30000,
+      "reward": 100,
+      "is_open": true,
+      "tasks": [
+        "Task 1",
+        "Task 2",
+        "Task 3",
+        "Task 4"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "LEVEL 2",
+      "time": 180,
+      "reward": 100,
+      "is_open": false,
+      "tasks": [
+        "Task 1",
+        "Task 2",
+        "Task 3",
+        "Task 4"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "LEVEL 3",
+      "time": 180,
+      "reward": 100,
+      "is_open": false,
+      "tasks": [
+        "Task 1",
+        "Task 2",
+        "Task 3",
+        "Task 4"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+
+Sat Jun 05 13:25:41 IRDT 2021 : log out
+Sat Jun 05 13:27:01 IRDT 2021 : Start Game
+Sat Jun 05 13:27:03 IRDT 2021 : Select Login
+Sat Jun 05 13:27:18 IRDT 2021 : Insert user name : ww
+Sat Jun 05 13:27:18 IRDT 2021 : User name ww found
+Sat Jun 05 13:27:19 IRDT 2021 : ww Login
+Sat Jun 05 13:27:19 IRDT 2021 : start Game
+Sat Jun 05 13:27:19 IRDT 2021 : getUserScore : 500
+Sat Jun 05 13:27:19 IRDT 2021 : getUserScore finally 
+Sat Jun 05 13:27:31 IRDT 2021 : getUserScore : 500
+Sat Jun 05 13:27:31 IRDT 2021 : getUserScore finally 
+Sat Jun 05 13:27:31 IRDT 2021 : ww	Start Game	
+Sat Jun 05 13:27:31 IRDT 2021 : getUserScore : 500
+Sat Jun 05 13:27:31 IRDT 2021 : getUserScore finally 
+Sat Jun 05 13:27:44 IRDT 2021 : getUserScore : 500
+Sat Jun 05 13:27:44 IRDT 2021 : getUserScore finally 
+Sat Jun 05 13:27:44 IRDT 2021 : getUserScore : 500
+Sat Jun 05 13:27:44 IRDT 2021 : getUserScore finally 
+Sat Jun 05 13:27:44 IRDT 2021 : getUserScore : 500
+Sat Jun 05 13:27:44 IRDT 2021 : getUserScore finally 
+Sat Jun 05 13:27:44 IRDT 2021 : updateScore : 500 to 400
+Sat Jun 05 13:27:45 IRDT 2021 : getUserScore : 400
+Sat Jun 05 13:27:45 IRDT 2021 : getUserScore finally 
+Sat Jun 05 13:31:16 IRDT 2021 : Start Game
+Sat Jun 05 13:31:19 IRDT 2021 : Select Register
+Sat Jun 05 13:32:20 IRDT 2021 : Start Game
+Sat Jun 05 13:32:23 IRDT 2021 : Select Register
+Sat Jun 05 13:33:29 IRDT 2021 : Start Game
+Sat Jun 05 13:33:31 IRDT 2021 : Select Register
+Sat Jun 05 13:33:35 IRDT 2021 : model.User@6fffcba5 insert 
+Sat Jun 05 13:33:46 IRDT 2021 : Start Game
+Sat Jun 05 13:33:48 IRDT 2021 : Select Register
+Sat Jun 05 13:33:54 IRDT 2021 : model.User@6fffcba5 insert 
+Sat Jun 05 13:36:09 IRDT 2021 : Start Game
+Sat Jun 05 13:36:12 IRDT 2021 : Select Register
+Sat Jun 05 13:36:17 IRDT 2021 : model.User@6fffcba5 insert 
+Sat Jun 05 13:36:17 IRDT 2021 : start Game
+Sat Jun 05 13:36:17 IRDT 2021 : getUserScore : 400
+Sat Jun 05 13:36:17 IRDT 2021 : getUserScore finally 
+Sat Jun 05 13:36:20 IRDT 2021 : log out
+Sat Jun 05 14:11:10 IRDT 2021 : Start Game
+Sat Jun 05 14:11:13 IRDT 2021 : Select Login
+Sat Jun 05 14:11:15 IRDT 2021 : Insert user name : صص
+Sat Jun 05 14:11:15 IRDT 2021 : صص User name not found.	Exiting Program...
+Sat Jun 05 14:11:22 IRDT 2021 : Start Game
+Sat Jun 05 14:11:34 IRDT 2021 : Start Game
+Sat Jun 05 14:11:49 IRDT 2021 : Select Login
+Sat Jun 05 14:11:52 IRDT 2021 : Insert user name : ww
+Sat Jun 05 14:11:52 IRDT 2021 : User name ww found
+Sat Jun 05 14:11:53 IRDT 2021 : ww Login
+Sat Jun 05 14:11:53 IRDT 2021 : start Game
+Sat Jun 05 14:11:53 IRDT 2021 : getUserScore : 400
+Sat Jun 05 14:11:53 IRDT 2021 : getUserScore finally 
+Sat Jun 05 14:11:55 IRDT 2021 : getUserScore : 400
+Sat Jun 05 14:11:55 IRDT 2021 : getUserScore finally 
+Sat Jun 05 14:11:55 IRDT 2021 : ww	Start Game	
+Sat Jun 05 14:30:38 IRDT 2021 : Start Game
+Sat Jun 05 14:30:44 IRDT 2021 : Select Login
+Sat Jun 05 14:30:46 IRDT 2021 : Insert user name : ww
+Sat Jun 05 14:30:46 IRDT 2021 : User name ww found
+Sat Jun 05 14:30:47 IRDT 2021 : ww Login
+Sat Jun 05 14:30:47 IRDT 2021 : start Game
+Sat Jun 05 14:30:47 IRDT 2021 : getUserScore : 400
+Sat Jun 05 14:30:47 IRDT 2021 : getUserScore finally 
+Sat Jun 05 14:30:49 IRDT 2021 : getUserScore : 400
+Sat Jun 05 14:30:49 IRDT 2021 : getUserScore finally 
+Sat Jun 05 14:30:49 IRDT 2021 : ww	Start Game	
+Sat Jun 05 14:30:49 IRDT 2021 : getUserScore : 400
+Sat Jun 05 14:30:49 IRDT 2021 : getUserScore finally 
+Sat Jun 05 14:30:52 IRDT 2021 : getUserScore : 400
+Sat Jun 05 14:30:52 IRDT 2021 : getUserScore finally 
+Sat Jun 05 14:30:52 IRDT 2021 : getUserScore : 400
+Sat Jun 05 14:30:52 IRDT 2021 : getUserScore finally 
+Sat Jun 05 14:30:52 IRDT 2021 : getUserScore : 400
+Sat Jun 05 14:30:52 IRDT 2021 : getUserScore finally 
+Sat Jun 05 14:30:52 IRDT 2021 : updateScore : 400 to 300
+Sat Jun 05 14:32:56 IRDT 2021 : Start Game
+Sat Jun 05 14:32:58 IRDT 2021 : Select Login
+Sat Jun 05 14:33:00 IRDT 2021 : Insert user name : 1
+Sat Jun 05 14:33:00 IRDT 2021 : 1 User name not found.	Exiting Program...
+Sat Jun 05 14:33:06 IRDT 2021 : Start Game
+Sat Jun 05 14:33:08 IRDT 2021 : Select Login
+Sat Jun 05 14:33:10 IRDT 2021 : Insert user name : ww
+Sat Jun 05 14:33:10 IRDT 2021 : User name ww found
+Sat Jun 05 14:33:11 IRDT 2021 : ww Login
+Sat Jun 05 14:33:11 IRDT 2021 : start Game
+Sat Jun 05 14:33:11 IRDT 2021 : getUserScore : 300
+Sat Jun 05 14:33:11 IRDT 2021 : getUserScore finally 
+Sat Jun 05 14:33:13 IRDT 2021 : getUserScore : 300
+Sat Jun 05 14:33:13 IRDT 2021 : getUserScore finally 
+Sat Jun 05 14:33:13 IRDT 2021 : ww	Start Game	
+Sat Jun 05 14:33:13 IRDT 2021 : getUserScore : 300
+Sat Jun 05 14:33:13 IRDT 2021 : getUserScore finally 
+Sat Jun 05 14:33:19 IRDT 2021 : getUserScore : 300
+Sat Jun 05 14:33:19 IRDT 2021 : getUserScore finally 
+Sat Jun 05 14:33:19 IRDT 2021 : getUserScore : 300
+Sat Jun 05 14:33:19 IRDT 2021 : getUserScore finally 
+Sat Jun 05 14:33:19 IRDT 2021 : getUserScore : 300
+Sat Jun 05 14:33:19 IRDT 2021 : getUserScore finally 
+Sat Jun 05 14:33:19 IRDT 2021 : updateScore : 300 to 200
+Sat Jun 05 14:33:20 IRDT 2021 : getUserScore : 200
+Sat Jun 05 14:33:20 IRDT 2021 : getUserScore finally 
+Sat Jun 05 14:33:23 IRDT 2021 : getUserScore : 200
+Sat Jun 05 14:33:23 IRDT 2021 : getUserScore finally 
+Sat Jun 05 14:33:23 IRDT 2021 : getUserScore : 200
+Sat Jun 05 14:33:23 IRDT 2021 : getUserScore finally 
+Sat Jun 05 14:33:23 IRDT 2021 : getUserScore : 200
+Sat Jun 05 14:33:23 IRDT 2021 : getUserScore finally 
+Sat Jun 05 14:33:23 IRDT 2021 : updateScore : 200 to 0
+Sat Jun 05 14:33:24 IRDT 2021 : getUserScore : 0
+Sat Jun 05 14:33:24 IRDT 2021 : getUserScore finally 
+Sat Jun 05 14:33:26 IRDT 2021 : getUserScore : 0
+Sat Jun 05 14:33:26 IRDT 2021 : getUserScore finally 
+Sat Jun 05 14:33:27 IRDT 2021 : getUserScore : 0
+Sat Jun 05 14:33:27 IRDT 2021 : getUserScore finally 
+Sat Jun 05 14:33:32 IRDT 2021 : getUserScore : 0
+Sat Jun 05 14:33:32 IRDT 2021 : getUserScore finally 
+Sat Jun 05 14:33:38 IRDT 2021 : getUserScore : 0
+Sat Jun 05 14:33:38 IRDT 2021 : getUserScore finally 
